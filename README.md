@@ -1,7 +1,6 @@
 # Mandelbrot Set
 This is a project to help understand multi-threads. The mandelbrot set is calculated in parallel via pthread and printed using OpenGL. 
 
-<br>
 Dependencies
 --------------------------------------
 ```sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev```<br>
