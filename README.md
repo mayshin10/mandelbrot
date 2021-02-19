@@ -11,7 +11,7 @@ Dependencies
 Run
 --------------------------------------
 ```make```<br>
-```./mandelbrot {# of threads}````<br>`<br>
+```./mandelbrot {# of threads}```<br>`<br>
 
 Experimental Env.
 --------------------------------------
