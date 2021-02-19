@@ -5,9 +5,7 @@ Dependencies
 --------------------------------------
 ```sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev```<br>
 ```sudo apt-get install mesa-utils libgl1-mesa-glx```
-<br><br><br>
-
-
+<br><br>
 Run
 --------------------------------------
 ```make```<br>
