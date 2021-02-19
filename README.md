@@ -1,5 +1,5 @@
 # Mandelbrot Set
-This is a project to help understand multi-threads. The mandelbrot set is calculated in parallel via pthread and printed using OpenGL. 
+This is a project to help understand multi-threads. The mandelbrot set is calculated in parallel via pthread and printed using OpenGL. Multi-threads significantly increase performance to calculate mandelbrot sets. It depends on the number of physical threads your computer has.
 
 Dependencies
 --------------------------------------
@@ -11,6 +11,12 @@ Run
 --------------------------------------
 ```make```<br>
 ```./mandelbrot {# of threads}```
+
+Environment
+--------------------------------------
+core : Intel(R) Core(TM) i7-8565U CPU, 4 cores, 8 threads
+OS : Ubuntu 20.04
+
 
 Result
 --------------------------------------
