@@ -12,10 +12,10 @@ Run
 ```make```<br>
 ```./mandelbrot {# of threads}```
 
-Environment
+Experimental Env.
 --------------------------------------
-core : Intel(R) Core(TM) i7-8565U CPU, 4 cores, 8 threads
-OS : Ubuntu 20.04
+```core : Intel(R) Core(TM) i7-8565U CPU, 4 cores, 8 threads```<br>
+```OS : Ubuntu 20.04``<br>
 
 
 Result
