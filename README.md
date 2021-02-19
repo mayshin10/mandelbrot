@@ -6,17 +6,17 @@ Dependencies
 --------------------------------------
 ```sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev```<br>
 ```sudo apt-get install mesa-utils libgl1-mesa-glx```
-<br>
+<br>`<br>
 
 Run
 --------------------------------------
 ```make```<br>
-```./mandelbrot {# of threads}```
+```./mandelbrot {# of threads}````<br>`<br>
 
 Experimental Env.
 --------------------------------------
 ```core : Intel(R) Core(TM) i7-8565U CPU, 4 cores, 8 threads```<br>
-```OS : Ubuntu 20.04```<br>
+```OS : Ubuntu 20.04```<br>`<br>
 
 
 Result
