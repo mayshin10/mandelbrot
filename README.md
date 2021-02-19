@@ -22,7 +22,7 @@ Experimental Env.
 Result
 --------------------------------------
 
-<img src="img_src/elapsed.png" border="3px" align="center" > </img><br><br><br><br>
+<img src="img_src/elapsed.png" width = "700px" border="3px" align="center" > </img><br><br><br><br>
 
 
 
