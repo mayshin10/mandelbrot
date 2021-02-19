@@ -15,7 +15,7 @@ Run
 Experimental Env.
 --------------------------------------
 ```core : Intel(R) Core(TM) i7-8565U CPU, 4 cores, 8 threads```<br>
-```OS : Ubuntu 20.04``<br>
+```OS : Ubuntu 20.04```<br>
 
 
 Result
